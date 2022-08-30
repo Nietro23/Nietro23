@@ -38,6 +38,6 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://discord.gg/hZE8uVQTKZ"><img alt="Discord" src="https://img.shields.io/badge/Instagram-discord.gg/Atletix-blue?style=flat-square&logo=discord"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://discord.gg/hZE8uVQTKZ"><img alt="Discord" src="https://img.shields.io/badge/Discord-discord.gg/Atletix-blue?style=flat-square&logo=discord"></a>
+<a href="mailto:devnietro53@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-devnietro53@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
