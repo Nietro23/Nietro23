@@ -42,6 +42,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="Atletix.de"><img alt="Website" src="https://img.shields.io/badge/Website-Atletix.de-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://discord.gg/hZE8uVQTKZ"><img alt="Discord" src="https://img.shields.io/badge/Discord-discord.gg/Atletix-blue?style=flat-square&logo=discord"></a>
 </p>
