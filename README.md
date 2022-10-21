@@ -2,7 +2,7 @@
 
 <h2> Hey there! I'm Nietro23.</h2>
 
-<h3> 👤🏻‍💻 &nbsp;About Me </h3>
+<h3> 👤 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 👨‍🏫 &nbsp; Learning more about Design and Developing.
