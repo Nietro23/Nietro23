@@ -43,5 +43,5 @@
 
 <p align="center">
 <a href="https://discord.gg/hZE8uVQTKZ"><img alt="Discord" src="https://img.shields.io/badge/Discord-discord.gg/Atletix-blue?style=flat-square&logo=discord"></a>
-<a href="Lorvan.de"><img alt="Website" src="[https://img.shields.io/badge/Discord-discord.gg/Atletix-blue?style=flat-square&logo=discord](https://img.shields.io/badge/%F0%9F%8C%90-Lorvan.de-lightgrey)"></a>
+<a href="Lorvan.de"><img alt="Lorvan.de" src="https://img.shields.io/badge/Web-Lorvan.de-lightgrey"></a>
 </p>
