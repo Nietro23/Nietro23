@@ -34,7 +34,7 @@
 <br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nietro23&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nietro23&show_icons=true&show_icons=true&theme=radical))
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nietro23&theme=radical))
 
 <br/>
 
